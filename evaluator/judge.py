@@ -3,7 +3,7 @@ from groq import Groq
 import json
 
 client = Groq(
-    api_key="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"
+    api_key="secret"
 )
 
 def evaluate_project(text):
