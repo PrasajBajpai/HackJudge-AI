@@ -1,5 +1,10 @@
 # HackJudge-AI
-HackJudge AI is an AI-powered hackathon project evaluation and screening platform
+HackJudge AI is an AI-powered hackathon project evaluation and screening platform designed to automate the preliminary judging process for hackathons, startup competitions, college project expos, incubators, and innovation events.
+
+The platform analyzes uploaded PPT, PPTX, and PDF project presentations using Large Language Models (LLMs), NLP, and intelligent scoring systems to identify the best projects automatically.
+
+The main objective of HackJudge AI is to eliminate bias, reduce manual workload, improve evaluation consistency, and help organizers shortlist the most promising teams quickly and accurately.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
